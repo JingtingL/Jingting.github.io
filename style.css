@@ -1,0 +1,12 @@
+body{
+    background-color: #3da3c2;
+	background-size: 100%;
+	margin: 25px;
+    }
+h1{
+	text-align: center;
+	font-family: Georgia;
+    }
+.v1{
+    height: 250px;
+}
