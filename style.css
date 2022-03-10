@@ -18,6 +18,7 @@ h1{
     margin-right: auto;
 }
 
+<<<<<<< HEAD:css/style.css
 .active-nav-link {
   font-weight: bolder;
   color: white;
@@ -39,4 +40,6 @@ h1{
     text-decoration: none;
     background-color: #eee;
 }
+=======
+>>>>>>> main:style.css
 /* aa */
